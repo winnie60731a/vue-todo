@@ -44,7 +44,6 @@ const removeTodo = (index) => {
 
 <style scoped>
 .container {
-  max-width: 400px;
   margin: auto;
   text-align: center;
   font-family: Arial, sans-serif;
